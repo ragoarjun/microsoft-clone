@@ -98,7 +98,7 @@ ul {
 .showcase {
   width: 100%;
   height: 400px;
-  background: url('/images/microsoft-surface.png') no-repeat center center / cover;
+  background: url('images/microsoft-surface.png') no-repeat center center / cover;
   display: flex;
   flex-direction: column;
   align-items: center;
